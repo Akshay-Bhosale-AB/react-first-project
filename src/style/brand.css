@@ -1,0 +1,77 @@
+body{
+    margin-left: 80px;
+ }
+ 
+ .container3 {
+     display: flex;
+    position: fixed;
+ }
+ .bar4{
+     border: none;
+       position: fixed;
+         top: 700px;
+         left: 500px;
+         width: 250px;
+         height: 200px;
+         background-color: #eeeeee;
+ 
+ }
+  
+ .bar4 .head3{
+     display: flex;
+     flex-direction: row;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+ 
+     font-size: 15px;
+     margin-left: 15px;
+     
+ }
+ 
+ .brandlist{
+     height: auto;
+     padding: 0;
+     width: 100%;
+ }
+ .brandlist .row1{
+     width: 100%;
+     height: 37px;
+     border: 1px thin #eeeeee;
+     list-style-type: none;
+     margin: 0%;
+     display: flex;
+     flex-direction: row;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 14px;
+     justify-content: center;
+     align-items: center;
+ }
+ 
+ .brandlist .row1:hover{
+     cursor: pointer;
+     background-color: #cfd3ce;
+ }
+ 
+ .row1 #title1{
+     flex: 30%;
+     margin-left: 5%;
+ 
+ }
+ 
+ .row1 #total1{
+     margin-right: 5%;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

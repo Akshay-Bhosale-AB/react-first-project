@@ -1,0 +1,56 @@
+.topnav{
+            margin-top: 3px;
+            font-size: 12px;
+            padding: 0; 
+            box-shadow: 0px 1px #dde2eb;
+        }
+        .container-fluid{margin: 0 250px 0 200px ;}
+        
+        .totPrice{font-weight: lighter;}
+        
+        div.logo{
+            margin-top: 36px;
+            text-align: center;
+            letter-spacing: 0.25px;
+            color: #FF4252;
+            text-transform: uppercase;
+            opacity: 1;
+        }
+        
+        .lower{
+            text-transform: lowercase;
+            font-family: Poppins, Regular;}
+        
+        .upper{
+            font-family:Poppins,SemiBold ;
+            font-weight:bolder;}
+        
+        .nav-link{
+            color: #050505;
+            font-weight: 400;
+        }
+
+        p{
+            color: #050505;
+        }
+        
+        .trash-badge{
+            padding: 8px 0;
+        }
+     
+        .store-menu{
+            width: 615px;
+            height: 240px;
+        }
+
+        .menu-colum{
+            padding: 10px;
+            float: left;
+        }
+
+        .menu-item{
+            font-size: 10px;
+            padding: 10px;
+            font-family: normal normal normal 14px/46px Proxima Nova;
+            
+        }
