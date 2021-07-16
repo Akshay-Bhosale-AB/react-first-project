@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-first-project/static/css/main.5afb7eb3.chunk.css",
+    "main.js": "/react-first-project/static/js/main.ef7eb080.chunk.js",
+    "main.js.map": "/react-first-project/static/js/main.ef7eb080.chunk.js.map",
+    "runtime-main.js": "/react-first-project/static/js/runtime-main.a4ebce33.js",
+    "runtime-main.js.map": "/react-first-project/static/js/runtime-main.a4ebce33.js.map",
+    "static/js/2.a2fbf87c.chunk.js": "/react-first-project/static/js/2.a2fbf87c.chunk.js",
+    "static/js/2.a2fbf87c.chunk.js.map": "/react-first-project/static/js/2.a2fbf87c.chunk.js.map",
+    "index.html": "/react-first-project/index.html",
+    "static/css/main.5afb7eb3.chunk.css.map": "/react-first-project/static/css/main.5afb7eb3.chunk.css.map",
+    "static/js/2.a2fbf87c.chunk.js.LICENSE.txt": "/react-first-project/static/js/2.a2fbf87c.chunk.js.LICENSE.txt",
+    "static/media/ipod.7bbcb59c.jpg": "/react-first-project/static/media/ipod.7bbcb59c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4ebce33.js",
+    "static/js/2.a2fbf87c.chunk.js",
+    "static/css/main.5afb7eb3.chunk.css",
+    "static/js/main.ef7eb080.chunk.js"
+  ]
+}
